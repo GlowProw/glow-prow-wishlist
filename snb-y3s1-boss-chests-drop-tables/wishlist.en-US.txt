@@ -1,0 +1,156 @@
+title:SNB Y3S1 - Drop Tables - Event, Domain and Mythic Boss Chests opened in WT4
+description:Compiled from ToranBlackwater WT4 loot sample tables. Includes weapons, armors, and materials from La Peste, Hubacs, Li Tian Ning, Vikram, Honorless, Kraken, Moonshiner, and Heralds of the Abyss.
+version:1.0.0
+author:ToranBlackwater
+author_url:https://github.com/GlowProw/glow-prow-wishlist
+update_url:https://raw.githubusercontent.com/GlowProw/glow-prow-wishlist/main/snb-y3s1-boss-chests-drop-tables/wishlist.en-US.txt
+update_url:https://cdn.jsdelivr.net/gh/GlowProw/glow-prow-wishlist@main/snb-y3s1-boss-chests-drop-tables/wishlist.en-US.txt
+
+//notes: La Peste (Domain & Mythic Chests) tags:boss,pve,la-peste,wt4
+wishlist:item=leFleau3#notes: Le Fléau III - La Peste's Strongbox / Locker (1◆-4◆ Pre-ascended)
+wishlist:item=blightbringer#notes: Blightbringer - La Peste's Locker (Mythic 4◆ Pre-ascended)
+wishlist:item=twinWinchBallista#notes: Twin Winch Ballista - La Peste's Locker (Mythic 2◆-3◆ Pre-ascended)
+wishlist:item=carronade#notes: Carronade - La Peste's Locker (Mythic 2◆-4◆ Pre-ascended)
+wishlist:item=leopold3#notes: Leopold III - La Peste's Locker (Mythic 1◆ Pre-ascended)
+wishlist:item=laPiqure3#notes: La Piqúre III - La Peste's Strongbox / Locker (1◆-3◆ Pre-ascended)
+wishlist:item=monsMeg3#notes: Mons Meg III - La Peste's Strongbox (1◆-2◆ Pre-ascended)
+wishlist:item=basilisk3#notes: Basilisk III - La Peste's Strongbox / Locker (1◆-4◆ Pre-ascended)
+wishlist:item=zamzama3#notes: Zamzama III - La Peste's Locker (Mythic 1◆-4◆ Pre-ascended)
+wishlist:item=wrathfulWard#notes: Wrathful Ward - La Peste's Strongbox / Locker (1◆-4◆ Pre-ascended)
+wishlist:item=upgradeParts#notes: Upgrade Parts - Common drop in Domain & Mythic Chests
+wishlist:item=ascensionModule#notes: Ascension Module - Core ascension material in chests
+wishlist:item=masterworkKit#notes: Masterwork Kit - High drop rate in Mythic Chests
+wishlist:item=blightedFuel#notes: Blighted Fuel - Plague specialized fuel
+wishlist:item=plagueDust#notes: Plague Dust - Plague dust material
+wishlist:item=blueLotusOpium#notes: Blue Lotus Opium - High-value contraband commodity
+wishlist:item=blackLotusOpium#notes: Black Lotus Opium - Premium black lotus opium
+wishlist:item=castingSand#notes: Casting Sand - Casting sand material
+wishlist:item=crudeSaltpeter#notes: Crude Saltpeter - Crude saltpeter material
+
+//notes: Hubac Twins (White/Black Aria & Chorus Fleet Chests) tags:boss,pve,hubacs,wt4
+wishlist:item=shalei3#notes: Shalei III - White & Black Aria Chests (1◆-4◆ Pre-ascended)
+wishlist:item=theTermitesRocket3#notes: The Termites III - White & Black Aria Chests (1◆-4◆ Pre-ascended)
+wishlist:item=rocket3#notes: Rocket III - White & Black Aria Chests (1◆-4◆ Pre-ascended)
+wishlist:item=torpedo3#notes: Torpedo III - White & Black Aria Chests (1◆-4◆ Pre-ascended)
+wishlist:item=stormwovenSymphony#notes: Stormwoven Symphony - White Aria Chest Exclusive (1◆-2◆ Pre-ascended)
+wishlist:item=abyssal2#notes: Abyssal II - Black Aria Chest Exclusive (1◆-4◆ Pre-ascended)
+wishlist:item=compagnieSpiritsLocker#notes: Compagnie Spirits Locker - Chorus Fleet Strong Box (Furniture)
+wishlist:item=springloaderFurnace1#notes: Springloader Furnace I - White & Black Aria Chests (Furniture)
+wishlist:item=whiteAriaShipPart#notes: White Aria Shield - White Aria Shield exclusive drop
+wishlist:item=blackAriaShipPart#notes: Black Aria Sword - Black Aria Sword exclusive drop
+wishlist:item=hubacHeirloom#notes: Hubac Heirloom - Hubac Heirloom
+wishlist:item=upgradeParts#notes: Upgrade Parts - Chorus Fleet upgrade parts
+wishlist:item=ascensionModule#notes: Ascension Module - Ascension Module
+wishlist:item=precisionDrillingBit#notes: Precision Drilling Bit - Precision Drilling Bit
+wishlist:item=torsionSpring#notes: Torsion Spring - Torsion Spring
+wishlist:item=purifiedSaltpeter#notes: Purified Saltpeter - Purified Saltpeter
+
+//notes: Li Tian Ning (Phoenix Talon Strong Box) tags:boss,pve,li-tian-ning,wt4
+wishlist:item=phoenixTalons#notes: Phoenix Talons - Phoenix Talons Demi-Cannon (1◆-3◆ Pre-ascended)
+wishlist:item=hongYiPao#notes: Hong Yi Pao - Hong Yi Pao Bombard (1◆-4◆ Pre-ascended)
+wishlist:item=jadePhoenixStatue#notes: Jade Phoenix Statue - Jade Phoenix Statue exclusive curio
+wishlist:item=freemansEmbrace#notes: Freeman's Embrace - Freeman's Embrace
+wishlist:item=bloodyRed#notes: Bloody Red - Bloody Red exclusive dye
+wishlist:item=phoenixCrest#notes: Phoenix Crest - Phoenix Crest
+wishlist:item=phoenixBeak#notes: Phoenix Beak - Phoenix Beak
+wishlist:item=phoenixPinion#notes: Phoenix Pinion - Phoenix Pinion
+wishlist:item=upgradeParts#notes: Upgrade Parts - Upgrade Parts
+wishlist:item=ascensionModule#notes: Ascension Module - Ascension Module
+wishlist:item=masterworkKit#notes: Masterwork Kit - Masterwork Kit
+wishlist:item=naphtha#notes: Naphtha - Naphtha
+wishlist:item=precisionDrillingBit#notes: Precision Drilling Bit - Precision Drilling Bit
+wishlist:item=rubber#notes: Rubber - Rubber
+wishlist:item=torsionSpring#notes: Torsion Spring - Torsion Spring
+
+//notes: Vikram (Domain Locker & Mythic Strongbox) tags:boss,pve,vikram,wt4
+wishlist:item=tanashah#notes: Tanashah - Tanashah Armor (2◆-3◆ Pre-ascended)
+wishlist:item=blightkeeper#notes: Blightkeeper - Blightkeeper Springloader (Mythic 4◆ Pre-ascended)
+wishlist:item=decoyDeck#notes: Decoy Deck - Decoy Deck
+wishlist:item=drownedOnesToll#notes: Drowned One's Toll - Drowned One's Toll
+wishlist:item=painPiper#notes: Pain Piper - Pain-Piper
+wishlist:item=xanthousGemstone#notes: Xanthous Gemstone - Xanthous Gem Stone
+wishlist:item=xanthousStone#notes: Xanthous Stone - Xanthous Stone
+wishlist:item=upgradeParts#notes: Upgrade Parts - Upgrade Parts
+wishlist:item=ascensionModule#notes: Ascension Module - Ascension Module
+wishlist:item=masterworkKit#notes: Masterwork Kit - Masterwork Kit
+wishlist:item=drySand#notes: drySand - Dry Sand
+wishlist:item=planetaryGearset#notes: Planetary Gearset - Planetary Gearset
+wishlist:item=sinewString#notes: Sinew String - Sinew String
+wishlist:item=torsionSpring#notes: Torsion Spring - Torsion Spring
+wishlist:item=rubber#notes: Rubber - Rubber
+
+//notes: Honorless (Bloodied Strongbox IV) tags:boss,pve,honorless,wt4
+wishlist:item=soulsnatcher#notes: Soulsnatcher - Soulsnatcher Bombard (Base & 1◆ Pre-ascended)
+wishlist:item=monsMeg3#notes: Mons Meg III - Mons Meg III Bombard (1◆-4◆ Pre-ascended)
+wishlist:item=zamzama3#notes: Zamzama III - Zamzama III Demi-Cannon (1◆-4◆ Pre-ascended)
+wishlist:item=kleineKartouwe#notes: Kleine Kartouwe - Kleine Kartouwe Demi-Cannon (1◆-4◆ Pre-ascended)
+wishlist:item=divineWind#notes: Divine Wind - Divine Wind Armor (1◆-4◆ Pre-ascended)
+wishlist:item=drownedOrgan#notes: Drowned Organ - Drowned Organ
+wishlist:item=decoyDeck#notes: Decoy Deck - Decoy Deck
+wishlist:item=upgradeParts#notes: Upgrade Parts - Upgrade Parts
+wishlist:item=ascensionModule#notes: Ascension Module - Ascension Module
+wishlist:item=masterworkKit#notes: Masterwork Kit - Masterwork Kit
+wishlist:item=screwMechanism#notes: Screw Mechanism - Screw Mechanism
+wishlist:item=wormDrive#notes: Worm Drive - Worm Drive
+wishlist:item=cogwheel#notes: Cogwheel - Cogwheel
+
+//notes: Kraken (Kraken Ascended Cache) tags:boss,pve,kraken,wt4
+wishlist:item=wyrmhide#notes: Wyrmhide - Wyrmhide Armor (1◆-4◆ Pre-ascended)
+wishlist:item=nocturneHeart#notes: Nocturne Heart - Nocturne Heart Armor (1◆-4◆ Pre-ascended)
+wishlist:item=novaArma#notes: Nova Arma - Nova Arma Armor (1◆-4◆ Pre-ascended)
+wishlist:item=heydensGuard#notes: Heyden's Guard - Heyden's Guard Armor (1◆-4◆ Pre-ascended)
+wishlist:item=rivotrasGrace#notes: Rivotra's Grace - Rivotra's Grace Armor (1◆-4◆ Pre-ascended)
+wishlist:item=silverSentinel#notes: Silver Sentinel - Silver Sentinel Armor (1◆-4◆ Pre-ascended)
+wishlist:item=tondraDra#notes: Tondra-dra - Tondra-Drà Armor (1◆-4◆ Pre-ascended)
+wishlist:item=langeKartouwe#notes: Lange Kartouwe - Lange Kartouwe Demi-Cannon (1◆-4◆ Pre-ascended)
+wishlist:item=urbansGreatGun#notes: Urban's Great Gun - Urban's Great Gun Long Gun (1◆-4◆ Pre-ascended)
+wishlist:item=rotmouth#notes: rotmouth - The Rotmouth Culverin (1◆-4◆ Pre-ascended)
+wishlist:item=thunderDragonCannon#notes: Thunder Dragon Cannon - Thunder Dragon Cannon Demi-Cannon (1◆-4◆ Pre-ascended)
+wishlist:item=roaringMeg#notes: Roaring Meg - Roaring Meg Mortar (1◆-4◆ Pre-ascended)
+wishlist:item=alecto#notes: Alecto - Alecto Ballista (1◆-3◆ Pre-ascended)
+wishlist:item=stormVigil#notes: Storm Vigil - Storm Vigil Rockets (1◆-4◆ Pre-ascended)
+wishlist:item=blightbringer#notes: Blightbringer - Blightbringer Torpedo (1◆-4◆ Pre-ascended)
+wishlist:item=royalSentinel#notes: Royal Sentinel - Royal Sentinel Springloader (1◆-4◆ Pre-ascended)
+
+//notes: Manic Moonshiner (Moonshine Strongbox IV) tags:boss,pve,moonshiner,wt4
+wishlist:item=farscourge3#notes: Farscourge III - Farscourge III Long Gun (1◆-4◆ Pre-ascended)
+wishlist:item=monsMeg3#notes: Mons Meg III - Mons Meg III Bombard (1◆-4◆ Pre-ascended)
+wishlist:item=brickbreaker3#notes: Brickbreaker III - Brickbreaker III Culverin (1◆-4◆ Pre-ascended)
+wishlist:item=ashbreaker#notes: Ashbreaker - Ashbreaker Bombard (1◆-4◆ Pre-ascended)
+wishlist:item=atmasToll#notes: Atma's Toll - Atma's Toll Demi-Cannon (1◆-4◆ Pre-ascended)
+wishlist:item=trunnionFurnace#notes: Trunnion Furnace - Trunnion Furnace (Furniture)
+wishlist:item=physiciansLedger#notes: Physician's Ledger - Physician's Ledger
+wishlist:item=upgradeParts#notes: Upgrade Parts - Upgrade Parts
+wishlist:item=ascensionModule#notes: Ascension Module - Ascension Module
+wishlist:item=masterworkKit#notes: Masterwork Kit - Masterwork Kit
+wishlist:item=eelsTwine#notes: Eels' Twine - Eels' Twine
+wishlist:item=gannetsSaltpeter#notes: Gannets' Saltpeter - Gannets' Saltpeter
+wishlist:item=orcasMechanism#notes: Orcas' Mechanism - Orcas' Mechanism
+wishlist:item=wyrmsBreath#notes: Wyrm's Breath - Wyrms' Breath
+
+//notes: Heralds of the Abyss (Maelstrom Cannon & Ballista Strongboxes) tags:boss,pve,heralds-abyss,maelstrom,wt4
+wishlist:item=alecto#notes: Alecto - Alecto Ballista (Pre-ascended adept slots)
+wishlist:item=ballista3#notes: Ballista III - Ballista III (Pre-ascended adept slots)
+wishlist:item=basilisk3#notes: Basilisk III - Basilisk III Culverin (Pre-ascended adept slots)
+wishlist:item=blightbearer#notes: Blightbearer - Blightbearer Long Gun (Pre-ascended adept slots)
+wishlist:item=brickbreaker3#notes: Brickbreaker III - Brickbreaker III Culverin (Pre-ascended adept slots)
+wishlist:item=cloudbinder#notes: Cloudbinder - Cloudbinder Rocket (Pre-ascended adept slots)
+wishlist:item=divineThunder#notes: Divine Thunder - Divine Thunder Long Gun (Pre-ascended adept slots)
+wishlist:item=explosiveDemicannon3#notes: Explosive Demicannon III - Explosive Demi-Cannon III (Pre-ascended adept slots)
+wishlist:item=farscourge3#notes: Farscourge III - Farscourge III Long Gun (Pre-ascended adept slots)
+wishlist:item=fauleIlse#notes: Faule Ilse - Faule Ilse Culverin (Pre-ascended adept slots)
+wishlist:item=fireCulverin3#notes: Fire Culverin III - Fire Culverin III (Pre-ascended adept slots)
+wishlist:item=fireLongGun2#notes: Fire Long Gun II - Fire Long Gun II (Pre-ascended adept slots)
+wishlist:item=fireLongGun3#notes: Fire Long Gun III - Fire Long Gun III (Pre-ascended adept slots)
+wishlist:item=floodingDemicannon3#notes: Flooding Demi-Cannon III - Flooding Demi-Cannon III (Pre-ascended adept slots)
+wishlist:item=greatSpringald3#notes: Great Springald III - Great Springald III Ballista (Pre-ascended adept slots)
+wishlist:item=kleineKartouwe#notes: Kleine Kartouwe - Kleine Kartouwe Demi-Cannon (Pre-ascended adept slots)
+wishlist:item=laPiqure3#notes: La Piqúre III - La Piqûre III Long Gun (Pre-ascended adept slots)
+wishlist:item=phoenixTalons#notes: Phoenix Talons - Phoenix Talons Demi-Cannon (Pre-ascended adept slots)
+wishlist:item=piercingDemicannon3#notes: Piercing Demicannon III - Piercing Demi-Cannon III (Pre-ascended adept slots)
+wishlist:item=rotmouth#notes: rotmouth - The Rotmouth Culverin (Pre-ascended adept slots)
+wishlist:item=stormtongue#notes: Stormtongue - Storm Tongue Demi-Cannon (Pre-ascended adept slots)
+wishlist:item=tearingCulverin3#notes: Tearing Culverin III - Tearing Culverin III (Pre-ascended adept slots)
+wishlist:item=tearingLongGun3#notes: Tearing Long Gun III - Tearing Long Gun III (Pre-ascended adept slots)
+wishlist:item=thunderDragonCannon#notes: Thunder Dragon Cannon - Thunder Dragon Cannon Demi-Cannon (Pre-ascended adept slots)
+wishlist:item=zamzama3#notes: Zamzama III - Zamzama III Demi-Cannon (Pre-ascended adept slots)

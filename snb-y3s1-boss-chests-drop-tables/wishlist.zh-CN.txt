@@ -1,0 +1,156 @@
+title:SNB Y3S1 - 掉落表 - 活动、领地与神话Boss宝箱 (WT4)
+description:依照 ToranBlackwater 的世界等级4 (WT4) 掉落统计表整理。收录拉佩斯特、于巴克双子、李天宁、维克拉姆、狂暴无信者、克拉肯、狂躁月光私酒商与深渊使者宝箱所开出全部高阶装备与素材。
+version:1.0.0
+author:ToranBlackwater
+author_url:https://github.com/GlowProw/glow-prow-wishlist
+update_url:https://raw.githubusercontent.com/GlowProw/glow-prow-wishlist/main/snb-y3s1-boss-chests-drop-tables/wishlist.zh-CN.txt
+update_url:https://cdn.jsdelivr.net/gh/GlowProw/glow-prow-wishlist@main/snb-y3s1-boss-chests-drop-tables/wishlist.zh-CN.txt
+
+//notes: 拉佩斯特 / 瘟疫领主 (领地与神话宝箱) tags:boss,pve,la-peste,wt4
+wishlist:item=leFleau3#notes: 瘟疫炮 III - 瘟疫领主的保险箱 / 保险柜 (1◆-4◆预升阶)
+wishlist:item=blightbringer#notes: 祸害使者 - 瘟疫领主的保险柜 (神话 4◆预升阶)
+wishlist:item=twinWinchBallista#notes: 双绞弩炮 - 瘟疫领主的保险柜 (神话 2◆-3◆预升阶)
+wishlist:item=carronade#notes: 臼炮 - 瘟疫领主的保险柜 (神话 2◆-4◆预升阶)
+wishlist:item=leopold3#notes: 猎豹 III - 瘟疫领主的保险柜 (神话 1◆预升阶)
+wishlist:item=laPiqure3#notes: 瘟疫之蚀 III - 瘟疫领主的保险箱 / 保险柜 (1◆-3◆预升阶)
+wishlist:item=monsMeg3#notes: 蒙斯梅格炮 III - 瘟疫领主的保险箱 (1◆-2◆预升阶)
+wishlist:item=basilisk3#notes: 蛇怪 III - 瘟疫领主的保险箱 / 保险柜 (1◆-4◆预升阶)
+wishlist:item=zamzama3#notes: 扎姆扎马 III - 瘟疫领主的保险柜 (神话 1◆-4◆预升阶)
+wishlist:item=wrathfulWard#notes: 怒火牢房 - 瘟疫领主的保险箱 / 保险柜 (1◆-4◆预升阶)
+wishlist:item=upgradeParts#notes: 升级部件 - 领地与神话宝箱高频掉落
+wishlist:item=ascensionModule#notes: 晋阶模组 - 领地与神话宝箱核心飞升素材
+wishlist:item=masterworkKit#notes: 精工用品 - 神话宝箱高概率掉落
+wishlist:item=blightedFuel#notes: 枯萎燃料 - 瘟疫专属飞升燃料
+wishlist:item=plagueDust#notes: 瘟疫之尘 - 瘟疫之尘材料
+wishlist:item=blueLotusOpium#notes: 青花天堂烟 - 高价值贸易违禁品
+wishlist:item=blackLotusOpium#notes: 黑花天堂烟 - 高级黑莲花鸦片
+wishlist:item=castingSand#notes: 铸砂 - 铸造精砂
+wishlist:item=crudeSaltpeter#notes: 天然硝石 - 粗制硝石
+
+//notes: 于巴克双子兄弟 (咏叹调与合唱舰队宝箱) tags:boss,pve,hubacs,wt4
+wishlist:item=shalei3#notes: 爆炸型鱼雷 III - 白/黑咏叹调宝箱 (1◆-4◆预升阶)
+wishlist:item=theTermitesRocket3#notes: 白蚁 III - 白/黑咏叹调宝箱 (1◆-4◆预升阶)
+wishlist:item=rocket3#notes: 火箭 III - 白/黑咏叹调宝箱 (1◆-4◆预升阶)
+wishlist:item=torpedo3#notes: 鱼雷 III - 白/黑咏叹调宝箱 (1◆-4◆预升阶)
+wishlist:item=stormwovenSymphony#notes: 风暴交响曲 - 白色咏叹调宝箱专属 (1◆-2◆预升阶)
+wishlist:item=abyssal2#notes: 深渊 II - 黑色咏叹调宝箱专属 (1◆-4◆预升阶)
+wishlist:item=compagnieSpiritsLocker#notes: 皇家公司酒柜 - 合唱舰队任务宝箱 (家具)
+wishlist:item=springloaderFurnace1#notes: 铸炉（弹射器） I - 白/黑咏叹调宝箱 (家具)
+wishlist:item=whiteAriaShipPart#notes: 白色咏叹调号之盾 - 白色咏叹调号之盾专属掉落
+wishlist:item=blackAriaShipPart#notes: 黑色咏叹调号之剑 - 黑色咏叹调号之剑专属掉落
+wishlist:item=hubacHeirloom#notes: 胡巴茨传家宝 - 于巴克传家宝
+wishlist:item=upgradeParts#notes: 升级部件 - 合唱舰队掉落升阶零件
+wishlist:item=ascensionModule#notes: 晋阶模组 - 飞升模块
+wishlist:item=precisionDrillingBit#notes: 精密钻头 - 精密钻头
+wishlist:item=torsionSpring#notes: 扭簧 - 扭力弹簧
+wishlist:item=purifiedSaltpeter#notes: 纯化硝石 - 精炼硝石
+
+//notes: 李天宁 (凤爪保险箱) tags:boss,pve,li-tian-ning,wt4
+wishlist:item=phoenixTalons#notes: 翔凤 - 凤爪半加农炮 (1◆-3◆预升阶)
+wishlist:item=hongYiPao#notes: 红衣大炮 - 红衣炮射石炮 (1◆-4◆预升阶)
+wishlist:item=jadePhoenixStatue#notes: 凤凰玉像 - 翡翠凤雕专属珍品
+wishlist:item=freemansEmbrace#notes: 弗里曼的拥抱 - 弗里曼的拥抱
+wishlist:item=bloodyRed#notes: 猩红旗织 - 血红专属染料
+wishlist:item=phoenixCrest#notes: 凤凰徽章 - 凤凰冠饰
+wishlist:item=phoenixBeak#notes: 凤凰喙 - 凤喙
+wishlist:item=phoenixPinion#notes: 凤凰翼 - 凤羽
+wishlist:item=upgradeParts#notes: 升级部件 - 升级零件
+wishlist:item=ascensionModule#notes: 晋阶模组 - 飞升模块
+wishlist:item=masterworkKit#notes: 精工用品 - 杰作套件
+wishlist:item=naphtha#notes: 石脑油 - 石脑油
+wishlist:item=precisionDrillingBit#notes: 精密钻头 - 精密钻头
+wishlist:item=rubber#notes: 橡胶 - 橡胶
+wishlist:item=torsionSpring#notes: 扭簧 - 扭力弹簧
+
+//notes: 维克拉姆 (领地与神话保险箱/保险柜) tags:boss,pve,vikram,wt4
+wishlist:item=tanashah#notes: 暴君 - 塔纳沙护甲 (2◆-3◆预升阶)
+wishlist:item=blightkeeper#notes: 破灭掌控者 - 守疫者水雷发射器 (神话 4◆预升阶)
+wishlist:item=decoyDeck#notes: 诱饵甲板 - 诱饵甲板
+wishlist:item=drownedOnesToll#notes: 溺水者的钟声 - 溺亡者过路费
+wishlist:item=painPiper#notes: 疼痛吹奏者 - 哀嚎风笛
+wishlist:item=xanthousGemstone#notes: 黄色宝石 - 黄宝石
+wishlist:item=xanthousStone#notes: 黄色石头 - 黄色石头
+wishlist:item=upgradeParts#notes: 升级部件 - 升级零件
+wishlist:item=ascensionModule#notes: 晋阶模组 - 飞升模块
+wishlist:item=masterworkKit#notes: 精工用品 - 杰作套件
+wishlist:item=drySand#notes: drySand - 干砂
+wishlist:item=planetaryGearset#notes: 行星齿轮组 - 行星齿轮组
+wishlist:item=sinewString#notes: 筋腱弦线 - 筋弦
+wishlist:item=torsionSpring#notes: 扭簧 - 扭力弹簧
+wishlist:item=rubber#notes: 橡胶 - 橡胶
+
+//notes: 狂暴无信者 (血腥保险箱 IV) tags:boss,pve,honorless,wt4
+wishlist:item=soulsnatcher#notes: 夺魂者 - 摄魂者射石炮 (基础与 1◆预升阶)
+wishlist:item=monsMeg3#notes: 蒙斯梅格炮 III - 梅格射石炮 III (1◆-4◆预升阶)
+wishlist:item=zamzama3#notes: 扎姆扎马 III - 赞扎马半加农炮 III (1◆-4◆预升阶)
+wishlist:item=kleineKartouwe#notes: 小型卡图尔炮 - 小卡图威半加农炮 (1◆-4◆预升阶)
+wishlist:item=divineWind#notes: 圣风 - 神风护甲 (1◆-4◆预升阶)
+wishlist:item=drownedOrgan#notes: 沉没风琴 - 溺亡者风琴
+wishlist:item=decoyDeck#notes: 诱饵甲板 - 诱饵甲板
+wishlist:item=upgradeParts#notes: 升级部件 - 升级零件
+wishlist:item=ascensionModule#notes: 晋阶模组 - 飞升模块
+wishlist:item=masterworkKit#notes: 精工用品 - 杰作套件
+wishlist:item=screwMechanism#notes: 螺丝机件 - 螺旋机构
+wishlist:item=wormDrive#notes: 蜗杆传动 - 蜗杆传动
+wishlist:item=cogwheel#notes: 齿轮 - 齿轮
+
+//notes: 克拉肯海怪 (克拉肯飞升藏货) tags:boss,pve,kraken,wt4
+wishlist:item=wyrmhide#notes: 龙甲 - 蛟龙皮护甲 (1◆-4◆预升阶)
+wishlist:item=nocturneHeart#notes: 暗夜之心 - 夜曲之心护甲 (1◆-4◆预升阶)
+wishlist:item=novaArma#notes: 新星甲 - 新星重装护甲 (1◆-4◆预升阶)
+wishlist:item=heydensGuard#notes: 海登护甲 - 海登守卫护甲 (1◆-4◆预升阶)
+wishlist:item=rivotrasGrace#notes: 风的恩泽 - 里沃特拉恩典护甲 (1◆-4◆预升阶)
+wishlist:item=silverSentinel#notes: 亮银护甲 - 白银哨卫护甲 (1◆-4◆预升阶)
+wishlist:item=tondraDra#notes: 血灾 - 雷鸣护甲 (1◆-4◆预升阶)
+wishlist:item=langeKartouwe#notes: 长型卡图尔炮 - 长卡图威半加农炮 (1◆-4◆预升阶)
+wishlist:item=urbansGreatGun#notes: 厄本巨炮 - 乌尔班巨炮长管炮 (1◆-4◆预升阶)
+wishlist:item=rotmouth#notes: rotmouth - 腐烂之口长炮 (1◆-4◆预升阶)
+wishlist:item=thunderDragonCannon#notes: 雷龙炮 - 雷龙半加农炮 (1◆-4◆预升阶)
+wishlist:item=roaringMeg#notes: 轰鸣梅格炮 - 咆哮梅格迫击炮 (1◆-4◆预升阶)
+wishlist:item=alecto#notes: 复仇女神 - 阿莱克托弩炮 (1◆-3◆预升阶)
+wishlist:item=stormVigil#notes: 风暴警戒 - 暴风守望火箭 (1◆-4◆预升阶)
+wishlist:item=blightbringer#notes: 祸害使者 - 枯萎带来者鱼雷 (1◆-4◆预升阶)
+wishlist:item=royalSentinel#notes: 皇家戍卫 - 皇家哨卫水雷发射器 (1◆-4◆预升阶)
+
+//notes: 狂躁月光私酒商 (月光私酒保险箱 IV) tags:boss,pve,moonshiner,wt4
+wishlist:item=farscourge3#notes: 远灾 III - 远灾长管炮 III (1◆-4◆预升阶)
+wishlist:item=monsMeg3#notes: 蒙斯梅格炮 III - 梅格射石炮 III (1◆-4◆预升阶)
+wishlist:item=brickbreaker3#notes: 裂破 III - 碎砖者长炮 III (1◆-4◆预升阶)
+wishlist:item=ashbreaker#notes: 烬灭者 - 碎灰者射石炮 (1◆-4◆预升阶)
+wishlist:item=atmasToll#notes: 索魂 - 阿特玛丧钟半加农炮 (1◆-4◆预升阶)
+wishlist:item=trunnionFurnace#notes: 炮耳炉 - 耳轴熔炉 (家具)
+wishlist:item=physiciansLedger#notes: 医师账簿 - 医师账本
+wishlist:item=upgradeParts#notes: 升级部件 - 升级零件
+wishlist:item=ascensionModule#notes: 晋阶模组 - 飞升模块
+wishlist:item=masterworkKit#notes: 精工用品 - 杰作套件
+wishlist:item=eelsTwine#notes: 鳗鱼麻绳 - 鳗鱼麻线
+wishlist:item=gannetsSaltpeter#notes: 塘鹅硝石 - 塘鹅硝石
+wishlist:item=orcasMechanism#notes: 虎鲸机件 - 虎鲸机构
+wishlist:item=wyrmsBreath#notes: 龙息 - 巨龙吐息
+
+//notes: 深渊使者 (大漩涡火炮与弩炮保险箱) tags:boss,pve,heralds-abyss,maelstrom,wt4
+wishlist:item=alecto#notes: 复仇女神 - 阿莱克托弩炮 (精通槽预升阶)
+wishlist:item=ballista3#notes: 弩炮 III - 弩炮 III (精通槽预升阶)
+wishlist:item=basilisk3#notes: 蛇怪 III - 蛇怪长炮 III (精通槽预升阶)
+wishlist:item=blightbearer#notes: 疫毒使者 - 天谴长管炮 (精通槽预升阶)
+wishlist:item=brickbreaker3#notes: 裂破 III - 碎砖者长炮 III (精通槽预升阶)
+wishlist:item=cloudbinder#notes: 缚云者 - 缚云火箭 (精通槽预升阶)
+wishlist:item=divineThunder#notes: 神雷 - 天雷长管炮 (精通槽预升阶)
+wishlist:item=explosiveDemicannon3#notes: 爆炸型半加农炮 III - 爆炸半加农炮 III (精通槽预升阶)
+wishlist:item=farscourge3#notes: 远灾 III - 远灾长管炮 III (精通槽预升阶)
+wishlist:item=fauleIlse#notes: 铁片炮 - 懒惰伊尔丝长炮 (精通槽预升阶)
+wishlist:item=fireCulverin3#notes: 火焰型长炮 III - 烈火长炮 III (精通槽预升阶)
+wishlist:item=fireLongGun2#notes: 火焰型长管炮 II - 烈火长管炮 II (精通槽预升阶)
+wishlist:item=fireLongGun3#notes: 火焰型长管炮 III - 烈火长管炮 III (精通槽预升阶)
+wishlist:item=floodingDemicannon3#notes: 进水型半加农炮 III - 进水半加农炮 III (精通槽预升阶)
+wishlist:item=greatSpringald3#notes: 大型扭力弩炮 III - 大巨弩 III (精通槽预升阶)
+wishlist:item=kleineKartouwe#notes: 小型卡图尔炮 - 小卡图威半加农炮 (精通槽预升阶)
+wishlist:item=laPiqure3#notes: 瘟疫之蚀 III - 针刺长管炮 III (精通槽预升阶)
+wishlist:item=phoenixTalons#notes: 翔凤 - 凤爪半加农炮 (精通槽预升阶)
+wishlist:item=piercingDemicannon3#notes: 穿透型半加农炮 III - 穿甲半加农炮 III (精通槽预升阶)
+wishlist:item=rotmouth#notes: rotmouth - 腐烂之口长炮 (精通槽预升阶)
+wishlist:item=stormtongue#notes: 风暴之舌 - 雷暴之舌半加农炮 (精通槽预升阶)
+wishlist:item=tearingCulverin3#notes: 撕裂型长炮 III - 撕裂长炮 III (精通槽预升阶)
+wishlist:item=tearingLongGun3#notes: 撕裂型长管炮 III - 撕裂长管炮 III (精通槽预升阶)
+wishlist:item=thunderDragonCannon#notes: 雷龙炮 - 雷龙半加农炮 (精通槽预升阶)
+wishlist:item=zamzama3#notes: 扎姆扎马 III - 赞扎马半加农炮 III (精通槽预升阶)
